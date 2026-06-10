@@ -8,10 +8,10 @@ from playwright.async_api import async_playwright
 from playwright_stealth import Stealth
 
 # ===== CONFIG =====
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-CHAT_ID = os.getenv("CHAT_ID")
-MY_USER = os.getenv("MY_USER")
-MY_PASS = os.getenv("MY_PASS")
+BOT_TOKEN = os.getenv("8649162840:AAF0yZS9RX3RRy_flzDLOi3w8w4jgka8kec")
+CHAT_ID = os.getenv("-1003914110525")
+MY_USER = os.getenv("alexmart")
+MY_PASS = os.getenv("alexmart")
 
 TARGET_URL = "http://51.210.208.26/ints/client/SMSCDRStats"
 LOGIN_URL = "http://51.210.208.26/ints/login"
